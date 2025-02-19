@@ -6,6 +6,7 @@ Este é um projeto de pipeline de ETL (Extract, Transform, Load) usando Apache S
 
 O projeto está estruturado da seguinte maneira:
 
+```bash
 .
 ├── pom.xml
 ├── readme.md
@@ -22,6 +23,7 @@ O projeto está estruturado da seguinte maneira:
         └── java
 
 9 directories, 5 files
+```
 
 - **`src/main/java/com/magazord/`**: Contém os arquivos Java responsáveis pela lógica de ETL.
 - **`src/main/resources`**: Contém os arquivos que serão processados pela ETL.
