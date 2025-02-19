@@ -66,7 +66,7 @@ mvn clean install
 Após compilar o projeto, você pode executar a aplicação com o seguinte comando:
 
 ```bash
-java -cp target/etl-pipeline-1.0-SNAPSHOT.jar com.magazord.DataCleaningExample
+java -cp target/etl-pipeline-1.0-SNAPSHOT.jar com.magazord.DataCleaning
 ```
 
 ## Exemplo de Dados
