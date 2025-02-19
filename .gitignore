@@ -1,0 +1,3 @@
+# Diretórios e arquivos gerados pelo Maven
+target/
+*.log

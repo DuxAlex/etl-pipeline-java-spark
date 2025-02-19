@@ -1,0 +1,11 @@
+id,nome,email,idade,cidade,transacao_valor,transacao_data
+1,Ana Silva,ana.silva@email.com,28,São Paulo,250.50,2025-01-01
+2,João Souza,joao.souza@email.com,35,Rio de Janeiro,150.75,2025-01-02
+3,Maria Oliveira,maria.oliveira@email.com,22,Belo Horizonte,320.00,2025-01-03
+4,Carlos Pereira,carlos.pereira@email.com,40,Salvador,420.00,2025-01-04
+5,Paula Santos,paula.santos@email.com,30,Curitiba,280.25,2025-01-05
+6,,jose.santos@email.com,27,Recife,150.00,2025-01-06
+7,Luana Costa,luana.costa@email.com,,Manaus,200.00,2025-01-07
+8,Fernando Lima,fernando.lima@email.com,45,Fortaleza,,2025-01-08
+9,,maria.ribeiro@email.com,33,Porto Alegre,110.00,2025-01-09
+10,Roberto Almeida,roberto.almeida@email.com,26,São Paulo,350.00,2025-01-10
